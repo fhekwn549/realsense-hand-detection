@@ -107,3 +107,6 @@ fhekwn549
 - Intel RealSense SDK
 - Google MediaPipe
 - OpenCV
+
+## Updates
+- 2025-12-04: Initial release
